@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![Decision Tree Output](output.png)
 
 
 ## Result:
